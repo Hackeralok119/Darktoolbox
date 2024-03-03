@@ -95,6 +95,6 @@ python LAB.py
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Hackeralok119&repo=Darktoolbox&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 ## ©️ Copyright Message
-Copyright © [2023-27] [Hackeralok119]
+Copyright © [2024-28] [Hackeralok119]
 
 All rights reserved. This Python project, along with its code, documentation, and any associated files, is the intellectual property of ANONYMOUS CYBER. You may not reproduce, distribute, or modify the contents of this repository without explicit permission from the owner.
