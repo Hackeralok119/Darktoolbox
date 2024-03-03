@@ -17,7 +17,7 @@
  <p align="center"><img src="https://img.shields.io/badge/Python-FFDD00?style=for-the-badge&logo=python&logoColor=blue"/>
 
 
-<p align="center"><img src="[https://github.com/Hackeralok119/Darktoolbox/blob/master/image/ScreenShot_20231021215213.png](https://github.com/Hackeralok119/Darktoolbox/blob/main/image/ScreenShot_20231021215213.png)">
+<p align="center"><img src="https://github.com/Hackeralok119/Darktoolbox/blob/main/image/ScreenShot_20231021215213.png">
 
 <p align="center">
 
