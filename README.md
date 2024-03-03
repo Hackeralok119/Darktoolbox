@@ -2,13 +2,13 @@
 
 </p>
    <p align="center">
-      <a href="https://github.com/Hackeralok119/HACKING-LAB/stargazers">
-      <img alt="Stargazers" src="https://img.shields.io/github/stars/Hackeralok119/HACKING-LAB?style=for-the-badge&logo=github&color=f4dbd6&logoColor=D9E0EE&labelColor=302D41"></a>
-      <a href="https://github.com/Hackeralok119/HACKING-LAB/releases/latest">
-      <img alt="Releases" src="https://img.shields.io/github/release/Hackeralok119/HACKING-LAB?style=for-the-badge&logo=semantic-release&color=f5bde6&logoColor=D9E0EE&labelColor=302D41"/></a>
+      <a href="https://github.com/Hackeralok119/Darktoolbox/stargazers">
+      <img alt="Stargazers" src="https://img.shields.io/github/stars/Hackeralok119/Darktoolbox?style=for-the-badge&logo=github&color=f4dbd6&logoColor=D9E0EE&labelColor=302D41"></a>
+      <a href="https://github.com/Hackeralok119/Darktoolbox/releases/latest">
+      <img alt="Releases" src="https://img.shields.io/github/release/Hackeralok119/Darktoolbox?style=for-the-badge&logo=semantic-release&color=f5bde6&logoColor=D9E0EE&labelColor=302D41"/></a>
       <a href="https://www.conventionalcommits.org/en/v1.0.0/">
       <img alt="conventionalcommits" src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?style=for-the-badge&logo=conventionalcommits&color=ee99a0&logoColor=D9E0EE&labelColor=302D41"></a>
-      <a href="https://github.com/Hackeralok119/HACKING-LAB/actions/workflows/github-action.yml">
+      <a href="https://github.com/Hackeralok119/Darktoolbox/actions/workflows/github-action.yml">
       <img alt="testandlint" src="https://img.shields.io/github/actions/workflow/status/vn7n24fzkq/github-profile-summary-cards/test-and-lint.yml?branch=main&label=Test%20and%20Lint&style=for-the-badge&color=a6da95"></a>
    </p>
 
@@ -17,7 +17,7 @@
  <p align="center"><img src="https://img.shields.io/badge/Python-FFDD00?style=for-the-badge&logo=python&logoColor=blue"/>
 
 
-<p align="center"><img src="https://github.com/Hackeralok119/HACKING-LAB/blob/master/image/ScreenShot_20231021215213.png">
+<p align="center"><img src="https://github.com/Hackeralok119/Darktoolbox/blob/master/image/ScreenShot_20231021215213.png">
 
 <p align="center">
 
@@ -51,8 +51,8 @@ Hacking Lab Can Work On Different Devices Because It Is A Multi-purpose Program.
 #### Kali Linux / Ubuntu / Parrot OS :
 ```python
 sudo apt-get update && apt-get install git
-git clone https://github.com/Hackeralok119/HACKING-LAB.git
-cd HACKING-LAB
+git clone https://github.com/Hackeralok119/Darktoolbox
+cd Darktoolbox
 ls
 sudo python3 LAB.py
 ```
@@ -72,8 +72,8 @@ And some other python packages
 <hr>
 
 # Menu
-<p align="center"><img src="https://github.com/Hackeralok119/HACKING-LAB/blob/master/image/Screenshot%20from%202024-01-28%2016-43-02.png" alt="HACKING LAB v1.0.6" float="center"/>
-<p align="center"><img src="https://github.com/Hackeralok119/HACKING-LAB/blob/master/image/photo_2024-01-30_13-48-43.jpg">
+<p align="center"><img src="https://github.com/Hackeralok119/Darktoolbox/blob/master/image/Screenshot%20from%202024-01-28%2016-43-02.png" alt="HACKING LAB v1.0.6" float="center"/>
+<p align="center"><img src="https://github.com/Hackeralok119/Darktoolbox/blob/master/image/photo_2024-01-30_13-48-43.jpg">
 
 ### Install Requirements (on Linux)
 
@@ -84,15 +84,15 @@ And some other python packages
 ### INSTALL TOOL ON TERMUX
 ```python
 rm -rf HACKING-LAB
-git clone --depth=1 https://github.com/Hackeralok119/HACKING-LAB.git
-cd HACKING-LAB
+git clone --depth=1 https://github.com/Hackeralok119/Darktoolbox
+cd Darktoolbox
 ls
 python LAB.py
 ```
 
 #### Tools Languages :
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Hackeralok119&repo=HACKING-LAB&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Hackeralok119&repo=Darktoolbox&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 ## ©️ Copyright Message
 Copyright © [2023-27] [Hackeralok119]
